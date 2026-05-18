@@ -62,10 +62,12 @@ Responsive developer portfolio showcasing projects, skills, and technical experi
 
 ## GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zuhaibkhank&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhaibkhank&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zuhaibkhank&theme=tokyonight"/>
 </p>
 
 <p align="center">
