@@ -1,44 +1,72 @@
-# Hi 👋, I'm Mohd Zuhaib Khan
+# Hi, I'm Mohd Zuhaib Khan
 
-🚀 Aspiring Python Full Stack Developer
-💡 Passionate about building real-world projects
-📍 New Delhi, India
+Python Full Stack Developer focused on building scalable web applications and real-world software solutions using Python, Flask, React, and MongoDB.
 
----
-
-## 🧑‍💻 About Me
-
-* 🔭 Currently working on **Full Stack Development**
-* 🌱 Learning **React, Flask & MongoDB**
-* 🤝 Open to collaboration on **Python projects**
-* 📫 Email: [zuhaibkhan1915691@gmail.com](mailto:zuhaibkhan1915691@gmail.com)
+📍 New Delhi, India  
+📧 zuhaibkhan1915691@gmail.com
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-* 💻 Languages: Python, JavaScript
-* 🌐 Frontend: HTML, CSS, React
-* ⚙️ Backend: Flask
-* 🗄️ Database: MongoDB
-
----
-
-## 📌 Featured Projects
-
-* 🔥 Crop Disease Detection System
-* 💰 Banking Automation System
-* 📊 Expense Tracker
+- Full Stack Developer with hands-on experience in frontend and backend development
+- Skilled in building responsive web applications using Flask, React, HTML, CSS, and JavaScript
+- Interested in backend systems, automation, and AI-based applications
+- Currently improving problem-solving skills and exploring scalable application architecture
+- Open to internship and entry-level software development opportunities
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-![Zuhaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuhaibkhank\&show_icons=true\&theme=radical)
+### Languages
+- Python
+- JavaScript
+
+### Frontend
+- HTML5
+- CSS3
+- React.js
+
+### Backend
+- Flask
+- Django
+
+### Database
+- MongoDB
+- PostgreSQL
+
+### Tools & Technologies
+- Git
+- GitHub
+- REST APIs
+- Bootstrap
 
 ---
 
-## 🔗 Connect with Me
+## Featured Projects
 
-* 💼 LinkedIn: https://www.LinkedIn.com/in/zuhaibkhan1915
-* 🐙 GitHub: https://github.com/zuhaibkhank
+### Crop Disease Detection System
+AI-powered web application that detects crop diseases using CNN and Flask to help improve agricultural productivity.
+
+### Banking Automation System
+Banking management system with secure login, deposit, withdrawal, and account management features using Flask and MongoDB.
+
+### LeadFlow CRM
+CRM web application developed using Django and PostgreSQL for managing customer leads and workflow.
+
+### Personal Portfolio Website
+Responsive developer portfolio showcasing projects, skills, and technical experience.
+
+---
+
+## GitHub Stats
+
+<!-- GitHub stats badge here -->
+
+---
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/zuhaibkhan1915
+- GitHub: github.com/Zuhaibkhank
