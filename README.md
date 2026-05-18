@@ -62,7 +62,13 @@ Responsive developer portfolio showcasing projects, skills, and technical experi
 
 ## GitHub Stats
 
-<!-- GitHub stats badge here -->
+## GitHub Stats
+
+![Zuhaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuhaibkhank&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhaibkhank&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Zuhaibkhank&theme=tokyonight)
 
 ---
 
