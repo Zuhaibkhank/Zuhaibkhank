@@ -63,10 +63,23 @@ Responsive developer portfolio showcasing projects, skills, and technical experi
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuhaibkhank&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zuhaibkhank&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhaibkhank&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Zuhaibkhank&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Zuhaibkhank&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zuhaibkhank&theme=tokyonight"/>
+</p>
+---
+
+## Contribution Graph
+
+[![Zuhaib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zuhaibkhank&theme=tokyo-night)](https://github.com/Zuhaibkhank)
 
 ---
 
