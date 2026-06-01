@@ -69,8 +69,7 @@ CRM web application developed using Django and PostgreSQL for managing customer 
 Responsive developer portfolio showcasing projects, skills, and technical experience.
 
 ---
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zuhaibkhank&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
@@ -83,8 +82,10 @@ Responsive developer portfolio showcasing projects, skills, and technical experi
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zuhaibkhank&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Zuhaibkhank&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
+
 ---
 
 ## Contribution Graph
