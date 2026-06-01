@@ -1,10 +1,20 @@
-# Hi, I'm Mohd Zuhaib Khan
+# Hi, I'm Mohd Zuhaib Khan 👋
 
-Python Full Stack Developer focused on building scalable web applications and real-world software solutions using Python, Flask, React, and MongoDB.
+### Python Full Stack Developer
 
-📍 New Delhi, India  
-📧 zuhaibkhan1915691@gmail.com
+Passionate about building web applications and solving real-world problems using Python, Flask, Django, MongoDB, PostgreSQL, and JavaScript.
 
+📍 New Delhi, India
+
+🎓 B.Tech Graduate (2025)
+
+💼 Open to Software Developer, Python Developer, and Full Stack Developer roles
+
+🌐 Portfolio: https://zuhaib-portfolio-orpin.vercel.app
+
+💼 LinkedIn: https://www.linkedin.com/in/zuhaibkhan1915
+
+📧 Email: zuhaibkhan1915691@gmail.com
 ---
 
 ## About Me
